@@ -1,0 +1,2 @@
+Sample Mean (Expected Number of Trials): 6.02
+Estimated Success Probability (MLE): 0.16611295681063123
